@@ -1,0 +1,21 @@
+ul li {
+    padding: 40px;
+    font-size: 20px;
+}
+
+ul li:hover {
+    background: beige;
+}
+
+ul li.checked {
+    background: grey;
+    color: azure;
+}
+
+.head2 {
+    background-color: skyblue;
+    padding: 40px;
+    color: white;
+    text-align: center;
+    font-style: initial;
+}
